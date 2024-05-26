@@ -1,0 +1,15 @@
+==================================================
+Filename          : RTfW.exe
+MD5               : 5b867084a1de2b2c3cacaebdcc603a37
+SHA1              : 4def4c60a1ec326ac34036fd67e307694e66cf0d
+CRC32             : a427295c
+Full Path         : C:\Users\Le Quoc Nam\Desktop\RTfW v4.0.0.0\RTfW.exe
+Modified Time     : 26/04/2010 11:08:34 CH
+Created Time      : 26/04/2010 9:16:48 CH
+File Size         : 1.342.383
+File Version      : 4.0.0.0
+Product Version   : 
+Identical         : 
+Extension         : exe
+==================================================
+
